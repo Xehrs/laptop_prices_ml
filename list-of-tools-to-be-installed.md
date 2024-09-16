@@ -86,6 +86,13 @@ $ docker images
 $ docker ps -a
 $ docker build -t <name-of-the-docker-image> .
 $ docker run --name <name-of-the-docker-image>
+
+# List containers running:
+$ docker ps -a
+
+# Stop container:
+$ docker stop <container id>
+
 $ docker images
 $ docker login
 $ docker rmi <<image-id>>
