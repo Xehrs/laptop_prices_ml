@@ -87,6 +87,9 @@ $ docker ps -a
 $ docker build -t <name-of-the-docker-image> .
 $ docker run --name <name-of-the-docker-image>
 
+# Run docker and expose and map port:
+$ docker run -5000:500 --name <name-of-the-docker-image>
+
 # List containers running:
 $ docker ps -a
 
