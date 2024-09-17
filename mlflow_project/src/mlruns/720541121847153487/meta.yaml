@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Dev/Menteeship/Projects/Laptop_prices/mlflow/src/mlruns/720541121847153487
+creation_time: 1726535292653
+experiment_id: '720541121847153487'
+last_update_time: 1726535292653
+lifecycle_stage: active
+name: laptop_prices_prediction_experiment

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Dev/Menteeship/Projects/Laptop_prices/mlflow/src/mlruns/720541121847153487/79170e0b4ee9430bbe0e2d874c01bab0/artifacts
+end_time: 1726538761116
+entry_point_name: ''
+experiment_id: '720541121847153487'
+lifecycle_stage: active
+run_id: 79170e0b4ee9430bbe0e2d874c01bab0
+run_name: stately-grub-251
+run_uuid: 79170e0b4ee9430bbe0e2d874c01bab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726538760940
+status: 3
+tags: []
+user_id: sherz

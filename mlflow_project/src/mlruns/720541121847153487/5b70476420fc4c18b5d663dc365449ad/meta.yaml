@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Dev/Menteeship/Projects/Laptop_prices/mlflow/src/mlruns/720541121847153487/5b70476420fc4c18b5d663dc365449ad/artifacts
+end_time: 1726538836332
+entry_point_name: ''
+experiment_id: '720541121847153487'
+lifecycle_stage: active
+run_id: 5b70476420fc4c18b5d663dc365449ad
+run_name: bold-newt-286
+run_uuid: 5b70476420fc4c18b5d663dc365449ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726538836189
+status: 3
+tags: []
+user_id: sherz

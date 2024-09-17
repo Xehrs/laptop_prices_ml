@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Dev/Menteeship/Projects/Laptop_prices/mlflow/src/mlruns/720541121847153487/be3e39697c2d4ab383815927b183e4fb/artifacts
+end_time: 1726608304224
+entry_point_name: ''
+experiment_id: '720541121847153487'
+lifecycle_stage: active
+run_id: be3e39697c2d4ab383815927b183e4fb
+run_name: vaunted-horse-693
+run_uuid: be3e39697c2d4ab383815927b183e4fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726608303995
+status: 3
+tags: []
+user_id: sherz
